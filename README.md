@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-esperanza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Luz de esperanza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-esperanza/) |
+| **Get License** | [Secure Licensing Rights for Luz de esperanza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-esperanza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Under the neon lights, I feel your fire
+> One look from you takes me higher
+> Your body moves, my one desire
+> Luz de esperanza, you're my empire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

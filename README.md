@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-esperanza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Luz de esperanza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-esperanza/) |
+| **Get License** | [Get License For Luz de esperanza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-esperanza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e5347f362269e79f2b896332afbbbc2bd4f34da54b554f50e6ccd09542842b50` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

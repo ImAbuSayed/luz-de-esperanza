@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Luz de esperanza
+
+This log tracks the cryptographic history and versioning for the song **Luz de esperanza** (luz-de-esperanza).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:16:26.073561 | `v1` | `e5347f362269e79f2b896332afbbbc2bd4f34da54b554f50e6ccd09542842b50` | `8853f858c2cc732c8005c9308f3c53c7092e8e4fea0f507db8a2c53be64f6395` | `2026-06-23_luz-de-esperanza-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
